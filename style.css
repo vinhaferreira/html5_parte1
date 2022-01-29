@@ -1,10 +1,30 @@
+
+body {
+
+    background: #CCCCCC;
+
+}
+
+#banner {
+
+    width: 100%;
+}
+
+h1 {
+
+    text-align: center; background: #CCCCCC;
+
+}
+
+
 p {
     text-align: center;
     
 }
-body {
 
-    background: #CCCCCC;
+#missao {
+
+    font-size: 20px
 
 }
 
