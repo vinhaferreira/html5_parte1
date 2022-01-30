@@ -1,6 +1,12 @@
 
 body {
 
+    
+
+}
+
+.principal {
+
     background: #CCCCCC;
 
 }
@@ -31,6 +37,22 @@ p {
 em strong {
 
 
-    color: red;
+    color: red
 
+}
+
+.itens {
+
+    font-style: italic
+}
+
+.beneficios {
+
+    background: #FFFFFF;
+
+}
+
+h2 {
+
+    text-align: center;
 }
